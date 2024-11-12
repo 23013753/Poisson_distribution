@@ -1,6 +1,6 @@
 # Fitting Poisson  distribution
 
-# Name: Vishal s
+# Name: Nirmal N
 
 # Aim : 
 
